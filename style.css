@@ -3,10 +3,10 @@
     margin-top: 1%;
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 1%;
+    margin-bottom: 10%;
 }
 .card {
-    width: 40%;
+    width: 80%;
     height: auto;
     border-radius: 10px;
 }
@@ -34,3 +34,9 @@
     margin-left: 50px;
 }
 
+
+/*  */
+
+.grid_gap {
+    gap: 100px;
+}
